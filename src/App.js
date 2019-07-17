@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import './App.css';
+import './index.css';
 import RequiredInfo from './sections/required-info';
 import RunOptions from './sections/run-options';
 import Pressure from './sections/pressure';
